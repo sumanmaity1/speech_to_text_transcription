@@ -1,5 +1,6 @@
 # speech_to_text_transcription
-First extract the attached zip file
+First extract the attached zip file.
+
 Inside that there is a folder "speech_to_text_transcription".open this folder into eclipse luna.
 There is another folder "Database Script" which is having a database script named "speech". Upload this script into mysql databse in your system.
 To config the database into eclipse luna username = root & password is blank. host is local host. port number will be your mysql port number.
